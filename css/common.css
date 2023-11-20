@@ -1,0 +1,56 @@
+* {
+  color: #000;
+  margin: 0;
+}
+
+input {
+  width: 80%;
+}
+
+button {
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}
+
+.vocabulary {
+  width: 40%;
+  min-width: 420px;
+  margin: auto;
+  padding: 15px 15px;
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  margin-top: 5%;
+}
+.vocabulary li {
+  padding: 5px 0px;
+}
+.vocabulary .group-list .item {
+  width: 40%;
+  display: inline-block;
+  font-size: 16px;
+}
+.svg-inline--fa {
+  cursor: pointer;
+}
+
+.swal-wide {
+  width: 260px !important;
+  font-size: 14px;
+}
+
+.swal2-popup {
+  font-size: 6px;
+}
+
+.action-add button {
+  width: 20%;
+}
+
+.action-del button {
+  width: 20%;
+}
+
+/*# sourceMappingURL=common.css.map */
